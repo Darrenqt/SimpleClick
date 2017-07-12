@@ -53,5 +53,5 @@ public class MainActivity extends AppCompatActivity {
         ckbLike.setChecked(isChecked);
     }
 
-
+    //This is a new line
 }
