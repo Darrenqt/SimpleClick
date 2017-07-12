@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="name" />
+    <string name="gpa" />
+    <string name="gender" />
+    <string name="male" />
+    <string name="female" />
+    <string name="yesAnswer" />
+    <string name="likeProgramming" />
+</resources>
